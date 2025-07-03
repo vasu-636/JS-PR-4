@@ -16,7 +16,7 @@ function draw() {
       icon: "question",
       draggable: true,
     });
-    reset()
+    resetGame()
   }
 }
 
